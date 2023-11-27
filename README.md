@@ -1,2 +1,5 @@
-# xmas-lights
-Sandy FiveM Ymap For Xmas Lights around Blaine County
+# XMAS Lights around Sandy & Paleto Bay 
+
+
+---
+[![](https://dcbadge.vercel.app/api/server/cfxdev)](https://discord.gg/cfxdev)
